@@ -16,7 +16,9 @@ This project simulates a simple order management system for delivery drivers. Dr
 **How to Run:**  
 1. Open a terminal or command prompt.  
 2. Navigate to the project folder.  
-3. Run the program:
+3. Run the program.
+4. Login to the system with a username and password (Example Username: driver1) (Corresponding Password: pasword123).
+5. Follow the on-screen menu to access the various features of Simply Delivery. 
 
 ```bash
 python simply_delivery.py
