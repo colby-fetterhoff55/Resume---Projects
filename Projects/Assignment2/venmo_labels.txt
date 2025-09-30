@@ -1,0 +1,5 @@
+Send Money Button
+Receive Payment Button
+Transaction History
+Settings Menu
+New Notification: Payment Received from John - $20
