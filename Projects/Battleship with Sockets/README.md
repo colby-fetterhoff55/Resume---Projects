@@ -1,13 +1,13 @@
 # Battleship with Sockets
 
 **Description:**
-A two-player Battleship game implemented in Python using client-server socket communication. One player acts as the server and the other as the client, taking turns guessing ship locations until all ships are sunk.
+A single-player Battleship game implemented in Python using client-server socket communication. One player acts as the server and the other as the client, taking turns guessing ship locations until all ships are sunk.
 
 **Technologies Used:**
 - Python 3.x
 
 **Features:**
-- Two-player gameplay over a network using sockets.
+- Single-player gameplay over a network using sockets.
 - Separate client and server scripts for each player.
 - Configurable port number for connection.
 - Game continues until all ships are sunk.
@@ -25,3 +25,4 @@ python client.py 9000
 ```
 5. You can replace `9000` with any free port on your computer, but make sure both windows use the same port number.
 6. Play the game until all ships are sunk!
+
